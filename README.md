@@ -11,4 +11,4 @@
 [![Discord Badge](https://img.shields.io/badge/-Discord-5865F2?style=flat-quare&labelColor=5865F2&logo=discord&logoColor=white&link=link)](https://discord.gg/mergenia)
 [![Spotify Badge](https://img.shields.io/badge/-Spotify-1ED760?style=flat-quare&labelColor=1ED760&logo=spotify&logoColor=white&link=link)](https://instagram.com/elv1ram)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=riacik&show_icons=true&theme=red)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=riacik&show_icons=true&theme=dark)
