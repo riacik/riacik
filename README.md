@@ -1,7 +1,7 @@
 # Selam dostlarım
 - Adım Orhan 18 yaşındayım
 - 4 Yıldır yazılım ve kodlama ile uğraşıyorum. [html, php, javascript, css, python, C++]
-- Discord adresim: ` Ria#0400, [disocord](https://discord.gg/mergenia)
+- Discord adresim: ` Ria#0400, [Discord Sunucumuz](https://discord.gg/mergenia)
 - Web Sitem: https:/riaelchavo.xyz/
 - Aklınıza takılan bir sorun olursa sosyal medya hesaplarımdan ulaşabilirsiniz
 - Everything you can imagine is real -
