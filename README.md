@@ -1,5 +1,5 @@
 # Selam dostlarım
-- Adım Orhan 18 yaşındayım
+- Adım Orhan 17 yaşındayım
 - 4 Yıldır yazılım ve kodlama ile uğraşıyorum. [html, php, javascript, css, python, C++]
 - Discord adresim: ` Ria#9009, [Discord Sunucumuz](https://discord.gg/1944)
 - Web Sitem: https:/riaelchavo.xyz/
